@@ -40,7 +40,7 @@ CREATE TABLE dept_emp (
 	emp_no INT NOT NULL,
 	from_date VARCHAR NOT NULL,
 	to_date VARCHAR NOT NULL,
-	FOREIGH KEY (emp_no) REFERENCES employees (emp_no),
+	FOREIGN KEY (emp_no) REFERENCES employees (emp_no),
 	FOREIGN KEY (dept_no) REFERENCES departments(dept_no),
 	PRIMARY KEY (emp_no, dept_no)
 );
