@@ -28,3 +28,16 @@ ORDER BY emp_no, to_date DESC;
 -- Export table to CSV
 COPY unique_titles TO 'C:\\unique_titles.csv' DELIMITER ',' CSV HEADER;
 
+
+-- Retiring titles
+SELECT COUNT(title), title
+INTO retiring_titles
+FROM unique_titles
+GROUP BY title
+ORDER BY count DESC;
+
+-- Export table to CSV
+COPY retiring_titles TO 'C:\\retiring_titles.csv' DELIMITER ',' CSV HEADER;
+
+
+
