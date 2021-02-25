@@ -18,3 +18,6 @@ The purpose of the analysis was to predict the retirement of numerous employees 
 
 
 ## Summary
+<img src= "https://github.com/ChrisBarton107/Pewlett-Hackard-Analysis/blob/main/Resources/titles_count.png" width="700">
+
+<img src= "https://github.com/ChrisBarton107/Pewlett-Hackard-Analysis/blob/main/Resources/eligible_mentor_count.png" width="700">
