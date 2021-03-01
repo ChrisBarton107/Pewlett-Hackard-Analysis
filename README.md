@@ -14,7 +14,10 @@ The purpose of the analysis was to predict the retirement of numerous employees 
 <img src= "https://github.com/ChrisBarton107/Pewlett-Hackard-Analysis/blob/main/Resources/retiring_titles.png" height="475" width="500">
 
 #### Mentorship Eligibility
-<img src= "https://github.com/ChrisBarton107/Pewlett-Hackard-Analysis/blob/main/Resources/mentorship_eligibility.png" width="700">
+<img src= "https://github.com/ChrisBarton107/Pewlett-Hackard-Analysis/blob/main/Resources/mentorship_eligibility.png" width="700"><br>
+
+- Senior Engineer, Senior Staff, and Engineer lose the most employees to retirement
+- Managers lose the least amount of employees to retirement
 
 
 ## Summary<br>
