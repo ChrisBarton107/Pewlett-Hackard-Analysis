@@ -18,6 +18,8 @@ The purpose of the analysis was to predict the retirement of numerous employees 
 
 - Senior Engineer, Senior Staff, and Engineer lose the most employees to retirement
 - Managers lose the least amount of employees to retirement
+- 64% of retiring employees (Senior Engineer & Senior Staff) carry senior titles
+- A majority of employees eligible for the mentorship program carry senior titles
 
 
 ## Summary<br>
